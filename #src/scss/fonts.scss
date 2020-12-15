@@ -15,57 +15,9 @@
 }
 
 @font-face {
-    font-family: "Prompt-Bold";
-    font-display: swap;
-    src: url("../fonts/Prompt-Bold.woff") format("woff"), url("../fonts/Prompt-Bold.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
-    font-family: "Prompt-ExtraLight";
-    font-display: swap;
-    src: url("../fonts/Prompt-ExtraLight.woff") format("woff"), url("../fonts/Prompt-ExtraLight.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
-    font-family: "Prompt-ExtraBold";
-    font-display: swap;
-    src: url("../fonts/Prompt-ExtraBold.woff") format("woff"), url("../fonts/Prompt-ExtraBold.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
-    font-family: "Prompt-SemiBold";
-    font-display: swap;
-    src: url("../fonts/Prompt-SemiBold.woff") format("woff"), url("../fonts/Prompt-SemiBold.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
     font-family: "Prompt-Regular";
     font-display: swap;
     src: url("../fonts/Prompt-Regular.woff") format("woff"), url("../fonts/Prompt-Regular.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
-    font-family: "Prompt-Thin";
-    font-display: swap;
-    src: url("../fonts/Prompt-Thin.woff") format("woff"), url("../fonts/Prompt-Thin.woff2") format("woff2");
-    font-weight: initial;
-    font-style: initial;
-}
-
-@font-face {
-    font-family: "Prompt-Medium";
-    font-display: swap;
-    src: url("../fonts/Prompt-Medium.woff") format("woff"), url("../fonts/Prompt-Medium.woff2") format("woff2");
     font-weight: initial;
     font-style: initial;
 }
@@ -79,9 +31,17 @@
 }
 
 @font-face {
-    font-family: "Prompt-Black";
+    font-family: "Roboto-Regular";
     font-display: swap;
-    src: url("../fonts/Prompt-Black.woff") format("woff"), url("../fonts/Prompt-Black.woff2") format("woff2");
+    src: url("../fonts/Roboto-Regular.woff") format("woff"), url("../fonts/Roboto-Regular.woff2") format("woff2");
+    font-weight: initial;
+    font-style: initial;
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    font-display: swap;
+    src: url("../fonts/Roboto-Medium.woff") format("woff"), url("../fonts/Roboto-Medium.woff2") format("woff2");
     font-weight: initial;
     font-style: initial;
 }
